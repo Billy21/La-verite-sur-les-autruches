@@ -4,7 +4,6 @@ Mes amis du soir, bonsoir
 
 J'aime les autruches
 
-<!doctype html>
 <html lang="fr">
 
 
